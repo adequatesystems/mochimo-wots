@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wagleanuj/mochimo-wots.git"
+    "url": "git+https://github.com/adequatesystems/mochimo-wots.git"
   },
   "keywords": [
     "cryptocurrency",
@@ -34,9 +34,9 @@
   "author": "Anuj Wagle",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wagleanuj/mochimo-wots/issues"
+    "url": "https://github.com/adequatesystems/mochimo-wots/issues"
   },
-  "homepage": "https://github.com/wagleanuj/mochimo-wots#readme",
+  "homepage": "https://github.com/adequatesystems/mochimo-wots#readme",
   "devDependencies": {
     "@types/jest": "^29.5.14",
     "@types/node": "^18.0.0",
